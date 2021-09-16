@@ -5,3 +5,5 @@
 [![Facebook](https://img.shields.io/badge/facebook-libnoxt.so-white?labelColor=black&logo=facebook&logoColor=white&style=for-the-badge "Facebook")](https://facebook.com/libnoxt.so)\
 [![Minds](https://img.shields.io/badge/Minds-@noxturnix-white?labelColor=black&logo=minds&logoColor=white&style=for-the-badge "Minds")](https://www.minds.com/noxturnix/)\
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/Noxturnix?color=white&labelColor=black&logo=liberapay&logoColor=white&style=for-the-badge "Liberapay receiving")](https://liberapay.com/Noxturnix)
+
+[![Noxturnix's stats](https://github-readme-stats.vercel.app/api?username=Noxturnix&bg_color=000000&&text_color=ffffff&icon_color=ffffff&hide_border=true&show_icons=true&border_radius=0&hide_rank=true&hide_title=true&include_all_commits=true&theme=dark "Noxturnix's stats")](https://github.com/Noxturnix)
