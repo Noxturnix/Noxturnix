@@ -1,4 +1,4 @@
-[![Noxturnix banner](asset/noxturnix-banner.png "Noxturnix")](https://noxt.us/)
+[![Noxturnix banner](asset/noxturnix-banner.svg "Noxturnix")](https://noxt.us/)
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/noxt?color=white&labelColor=black&logo=keybase&logoColor=white&style=for-the-badge "Keybase PGP")](https://keybase.io/noxt/pgp_keys.asc?fingerprint=7d8dc9b3c88805311815a7b0110212d6e20279fa)\
 [![GitHub followers](https://img.shields.io/github/followers/Noxturnix?color=white&labelColor=black&logo=github&logoColor=white&style=for-the-badge "GitHub followers")](https://github.com/Noxturnix)\
